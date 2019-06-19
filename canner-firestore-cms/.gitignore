@@ -1,0 +1,10 @@
+node_modules
+coverage
+npm-debug.log
+lib
+.DS_Store
+_gh-pages
+*.log
+.cache
+dist
+.firebase
